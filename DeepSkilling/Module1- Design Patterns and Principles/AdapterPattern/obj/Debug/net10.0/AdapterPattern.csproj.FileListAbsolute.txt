@@ -1,0 +1,14 @@
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\AdapterPattern\AdapterPattern\bin\Debug\net10.0\AdapterPattern.exe
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\AdapterPattern\AdapterPattern\bin\Debug\net10.0\AdapterPattern.deps.json
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\AdapterPattern\AdapterPattern\bin\Debug\net10.0\AdapterPattern.runtimeconfig.json
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\AdapterPattern\AdapterPattern\bin\Debug\net10.0\AdapterPattern.dll
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\AdapterPattern\AdapterPattern\bin\Debug\net10.0\AdapterPattern.pdb
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\AdapterPattern\AdapterPattern\obj\Debug\net10.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\AdapterPattern\AdapterPattern\obj\Debug\net10.0\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\AdapterPattern\AdapterPattern\obj\Debug\net10.0\AdapterPattern.AssemblyInfo.cs
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\AdapterPattern\AdapterPattern\obj\Debug\net10.0\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\AdapterPattern\AdapterPattern\obj\Debug\net10.0\AdapterPattern.dll
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\AdapterPattern\AdapterPattern\obj\Debug\net10.0\refint\AdapterPattern.dll
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\AdapterPattern\AdapterPattern\obj\Debug\net10.0\AdapterPattern.pdb
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\AdapterPattern\AdapterPattern\obj\Debug\net10.0\AdapterPattern.genruntimeconfig.cache
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\AdapterPattern\AdapterPattern\obj\Debug\net10.0\ref\AdapterPattern.dll
