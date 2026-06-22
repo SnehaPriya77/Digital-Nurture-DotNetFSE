@@ -1,0 +1,14 @@
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\ECommerceSearch\ECommerceSearch\bin\Debug\net10.0\ECommerceSearch.exe
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\ECommerceSearch\ECommerceSearch\bin\Debug\net10.0\ECommerceSearch.deps.json
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\ECommerceSearch\ECommerceSearch\bin\Debug\net10.0\ECommerceSearch.runtimeconfig.json
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\ECommerceSearch\ECommerceSearch\bin\Debug\net10.0\ECommerceSearch.dll
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\ECommerceSearch\ECommerceSearch\bin\Debug\net10.0\ECommerceSearch.pdb
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\ECommerceSearch\ECommerceSearch\obj\Debug\net10.0\ECommerceSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\ECommerceSearch\ECommerceSearch\obj\Debug\net10.0\ECommerceSearch.AssemblyInfoInputs.cache
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\ECommerceSearch\ECommerceSearch\obj\Debug\net10.0\ECommerceSearch.AssemblyInfo.cs
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\ECommerceSearch\ECommerceSearch\obj\Debug\net10.0\ECommerceSearch.csproj.CoreCompileInputs.cache
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\ECommerceSearch\ECommerceSearch\obj\Debug\net10.0\ECommerceSearch.dll
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\ECommerceSearch\ECommerceSearch\obj\Debug\net10.0\refint\ECommerceSearch.dll
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\ECommerceSearch\ECommerceSearch\obj\Debug\net10.0\ECommerceSearch.pdb
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\ECommerceSearch\ECommerceSearch\obj\Debug\net10.0\ECommerceSearch.genruntimeconfig.cache
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\ECommerceSearch\ECommerceSearch\obj\Debug\net10.0\ref\ECommerceSearch.dll
