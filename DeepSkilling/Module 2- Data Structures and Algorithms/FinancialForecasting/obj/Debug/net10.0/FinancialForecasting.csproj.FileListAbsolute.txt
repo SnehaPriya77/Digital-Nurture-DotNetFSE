@@ -1,0 +1,14 @@
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\FinancialForecasting\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.exe
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\FinancialForecasting\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.deps.json
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\FinancialForecasting\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.runtimeconfig.json
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\FinancialForecasting\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.dll
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\FinancialForecasting\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.pdb
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\FinancialForecasting\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\FinancialForecasting\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.AssemblyInfoInputs.cache
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\FinancialForecasting\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.AssemblyInfo.cs
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\FinancialForecasting\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.csproj.CoreCompileInputs.cache
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\FinancialForecasting\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.dll
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\FinancialForecasting\FinancialForecasting\obj\Debug\net10.0\refint\FinancialForecasting.dll
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\FinancialForecasting\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.pdb
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\FinancialForecasting\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.genruntimeconfig.cache
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\FinancialForecasting\FinancialForecasting\obj\Debug\net10.0\ref\FinancialForecasting.dll
