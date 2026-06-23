@@ -1,0 +1,14 @@
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\MVCPattern\MVCPattern\bin\Debug\net10.0\MVCPattern.exe
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\MVCPattern\MVCPattern\bin\Debug\net10.0\MVCPattern.deps.json
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\MVCPattern\MVCPattern\bin\Debug\net10.0\MVCPattern.runtimeconfig.json
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\MVCPattern\MVCPattern\bin\Debug\net10.0\MVCPattern.dll
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\MVCPattern\MVCPattern\bin\Debug\net10.0\MVCPattern.pdb
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\MVCPattern\MVCPattern\obj\Debug\net10.0\MVCPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\MVCPattern\MVCPattern\obj\Debug\net10.0\MVCPattern.AssemblyInfoInputs.cache
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\MVCPattern\MVCPattern\obj\Debug\net10.0\MVCPattern.AssemblyInfo.cs
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\MVCPattern\MVCPattern\obj\Debug\net10.0\MVCPattern.csproj.CoreCompileInputs.cache
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\MVCPattern\MVCPattern\obj\Debug\net10.0\MVCPattern.dll
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\MVCPattern\MVCPattern\obj\Debug\net10.0\refint\MVCPattern.dll
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\MVCPattern\MVCPattern\obj\Debug\net10.0\MVCPattern.pdb
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\MVCPattern\MVCPattern\obj\Debug\net10.0\MVCPattern.genruntimeconfig.cache
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\MVCPattern\MVCPattern\obj\Debug\net10.0\ref\MVCPattern.dll
