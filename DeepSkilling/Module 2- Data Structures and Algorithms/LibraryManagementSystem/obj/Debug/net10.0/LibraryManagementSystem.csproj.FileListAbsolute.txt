@@ -1,0 +1,14 @@
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net10.0\LibraryManagementSystem.exe
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net10.0\LibraryManagementSystem.deps.json
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net10.0\LibraryManagementSystem.runtimeconfig.json
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net10.0\LibraryManagementSystem.dll
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net10.0\LibraryManagementSystem.pdb
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.AssemblyInfo.cs
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.dll
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net10.0\refint\LibraryManagementSystem.dll
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.pdb
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net10.0\LibraryManagementSystem.genruntimeconfig.cache
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net10.0\ref\LibraryManagementSystem.dll
