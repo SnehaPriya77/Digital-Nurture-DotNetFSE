@@ -1,0 +1,14 @@
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\TaskManagementSystem\TaskManagementSystem\bin\Debug\net10.0\TaskManagementSystem.exe
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\TaskManagementSystem\TaskManagementSystem\bin\Debug\net10.0\TaskManagementSystem.deps.json
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\TaskManagementSystem\TaskManagementSystem\bin\Debug\net10.0\TaskManagementSystem.runtimeconfig.json
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\TaskManagementSystem\TaskManagementSystem\bin\Debug\net10.0\TaskManagementSystem.dll
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\TaskManagementSystem\TaskManagementSystem\bin\Debug\net10.0\TaskManagementSystem.pdb
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\TaskManagementSystem\TaskManagementSystem\obj\Debug\net10.0\TaskManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\TaskManagementSystem\TaskManagementSystem\obj\Debug\net10.0\TaskManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\TaskManagementSystem\TaskManagementSystem\obj\Debug\net10.0\TaskManagementSystem.AssemblyInfo.cs
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\TaskManagementSystem\TaskManagementSystem\obj\Debug\net10.0\TaskManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\TaskManagementSystem\TaskManagementSystem\obj\Debug\net10.0\TaskManagementSystem.dll
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\TaskManagementSystem\TaskManagementSystem\obj\Debug\net10.0\refint\TaskManagementSystem.dll
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\TaskManagementSystem\TaskManagementSystem\obj\Debug\net10.0\TaskManagementSystem.pdb
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\TaskManagementSystem\TaskManagementSystem\obj\Debug\net10.0\TaskManagementSystem.genruntimeconfig.cache
+C:\Users\Sneha\OneDrive\Documents\DN5\EngineeringConcepts\TaskManagementSystem\TaskManagementSystem\obj\Debug\net10.0\ref\TaskManagementSystem.dll
