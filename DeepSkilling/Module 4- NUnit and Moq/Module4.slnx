@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="CollectionsLib.Tests/CollectionsLib.Tests.csproj" Id="a604d584-1372-41a2-94ec-462ee641d48f" />
+  <Project Path="CollectionsLib/CollectionsLib.csproj" Id="ee7e3e2a-3f1f-45fe-bdbf-1b0e78bbe229" />
+  <Project Path="ConverterLib.Tests/ConverterLib.Tests.csproj" Id="94aadd75-01c1-4fdf-b313-4d30a803f06d" />
+  <Project Path="ConverterLib/ConverterLib.csproj" Id="8aad718b-9383-4dab-ace8-39c6f3846c24" />
+  <Project Path="CurrencyConverterApp/CurrencyConverterApp.csproj" Id="12566ac9-3240-48d3-918e-256375ea3ba3" />
+  <Project Path="FourSeasonsLib/SeasonsLib.csproj" Id="61f53a84-0cc2-466e-a701-6cdc0ddc9993" />
+  <Project Path="LeapYearCalculatorLib.Tests/LeapYearCalculatorLib.Tests.csproj" Id="f32cd77b-03e7-461c-8aec-ab5f188936de" />
+  <Project Path="LeapYearCalculatorLib/LeapYearCalculatorLib.csproj" Id="d7c1292c-ec17-45d2-8705-b9d78bd0421b" />
+  <Project Path="SeasonsLib.Tests/SeasonsLib.Tests.csproj" Id="661911de-0299-43b1-9538-7502ba693292" />
+  <Project Path="UserManagerLib.Tests/UserManagerLib.Tests.csproj" Id="55022a5c-f8b8-448b-a6e1-88ae451380bc" />
+  <Project Path="UserManagerLib/UserManagerLib.csproj" Id="754c9ad0-f47f-4d37-a78a-1dc65e696d85" />
+</Solution>
